@@ -1,4 +1,4 @@
-## Selenium-For-Beginners-Practice
+# Selenium-For-Beginners-Practice
 ### Set up test automation framework with Selenium WebDriver
 ### Automate my first Selenium WebDriver test
 ### Learn basics of Java for testers
