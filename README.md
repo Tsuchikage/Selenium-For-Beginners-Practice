@@ -1,7 +1,2 @@
 # Selenium-For-Beginners-Practice
-### Set up test automation framework with Selenium WebDriver
-### Automate my first Selenium WebDriver test
-### Learn basics of Java for testers
-### Execute Selenium tests on different browsers
-### Use TestNG features for better test structure and easy selenium framework maintenance
-### Recognize different selenium test failures and exceptions and know how to fix and avoid them
+### Конфигурация Test automation framework с помощью Selenium WebDriver. Создание тестовых наборов с помощью TestNG. Отладка распространенных сбоев в тестировании Selenium WebDriver.
